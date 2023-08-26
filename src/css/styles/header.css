@@ -1,0 +1,33 @@
+.header-nav {
+  display: flex;
+  width: 1200px;
+  margin: 0 auto;
+  justify-content: space-between;
+  padding: 38px 0px;
+  color: #292f36;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.4px;
+}
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.navigation-list {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
+.navigation-list li:hover {
+  color: #cda274;
+}
+
+.navigation-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+

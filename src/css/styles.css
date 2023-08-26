@@ -1,0 +1,30 @@
+@import url(/src/css/styles/main.css);
+@import url(/src/css/styles/header.css);
+@import url(/src/css/styles/footer.css);
+
+body {
+  font-family: "Jost", sans-serif;
+  font-weight: 400;
+  color: #4d5053;
+  font-size: 22px;
+  line-height: 33px; /* 150% */
+  letter-spacing: 0.22px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+}
